@@ -1,0 +1,31 @@
+{
+  "same_runtime_visual_rerender_passed": true,
+  "exact_table_rerender_passed": true,
+  "generated_outputs_sha256": {
+    "S1_FIG1_relative_policy_gap.pdf": "96eec7ae8f93b9fdf43ca9770419ecfe7278ad687491e0627908aa122d4e56a0",
+    "S2_FIG2_jensen_vs_feedback.pdf": "0cebc3bc2832805dd4b00d1b8076bfaffa4f151a7f0678ace9142b773cfa7b4b",
+    "N4_SUPP_policy_zoom.pdf": "bc873aba31caffffd02ff559cb549e75f2ef7d4cc9a923b506840bea0471dd8f",
+    "N4_SUPP_endpoint_components.pdf": "a1b18aa5db9d16ea10466cf8f1f5a54ded1ff4a50940b1fd37524a936f84f641",
+    "S2_FIG3_signed_channels.pdf": "45c7616d54a6856e706f7d9910bbabdc5467535cc214b6061fe693def04fb0bd",
+    "S4_APP_FIG_cubic_policy_effects.pdf": "9c6fd68da054490aef66a315ee25958f1309185edc9052894a8d2ed981f191ca",
+    "N4_SUPP_noisy_ratings.pdf": "2cd7c7d407033866f16940c995cab2f0ca5cd049121a610c48a4122d62ebc1bf",
+    "S4_FIG4_normalized_switch.pdf": "e48bc82ad23a087fb754164675eee68940fb61ca2a7822b88f696348e56e371a",
+    "S3_APP_FIG_absolute_errors.pdf": "5775598ff7bcbe6c7d735c4d841dc2c2c71297eb716bf0cca8a10dd53e56e475",
+    "S5_APP_FIG_scaled_policy_gap_recomputed.pdf": "5a0417b9a2ecd358655fe9b9a4ebb08265e916c30b76545a29c964414788e7d8",
+    "N4_TABLE_policy_summary.tex": "f4b60e187e7f103f5be831671f3208c77a3a480be6c5bca7e4b9df6dc54940d5",
+    "S1_TABLE1_generated.tex": "0f2f5c7994ae003b5403d3f2e9381f60a9182b55219489b3a44037909aab3a81",
+    "S4_TABLE_cubic_benchmarks.tex": "48e89cbe354efb3762ac7196bcd7b758118dcbbcbac6be4625efacd3d4a90ffe",
+    "theorem1_contribution_table.tex": "5342d7f3600aab2c33a4c603ac0aa4e774e1fc5e31e27cde1148ddb5b9072340",
+    "S3_APP_TABLE_switching_generated.tex": "ed91a04c9ef3c6e0b548ac4ef03e3b532522edb9895def0375e10590f771d59e",
+    "N4_TABLE_outcomes.tex": "2686db10fb4fe4a018afc7271fc16fad685e7ad1d70aa23b31e20002a8af7f80",
+    "N4_TABLE_validation.tex": "509127ad1bfd3c5717b73e170ec2d4078272eb0d405b8b90fb5dd2f80fa5a4be",
+    "N4_NUMERIC_VALUES.tex": "b9716fc42068ad3d5e5ac9688bd27095070a970f92ecea1588127623b4205eeb"
+  },
+  "rendered_with": {
+    "python": "3.12.3",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "fonttools": "4.68.0"
+  }
+}

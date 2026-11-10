@@ -1,0 +1,37 @@
+{
+  "production": {
+    "collocation_nodes": 161,
+    "hermite_nodes": 160,
+    "own_rating_limit": 10.0
+  },
+  "refined": {
+    "collocation_nodes": 193,
+    "hermite_nodes": 220,
+    "own_rating_limit": 12.0
+  },
+  "independent": {
+    "method": "uniform cubic-spline fixed point",
+    "rating_nodes": 801,
+    "hermite_nodes": 220
+  },
+  "policy_evaluations": 924,
+  "channel_evaluations": 69,
+  "max_collocation_residual": 2.992051051364797e-14,
+  "max_offgrid_residual": 2.0766410785411082e-08,
+  "max_resolution_gap_difference": 1.007549599307822e-11,
+  "max_independent_effort_difference": 2.664859444223566e-10,
+  "max_root_resolution_difference": 5.3301807412253766e-12,
+  "max_accounting_error": 0.0,
+  "checks_passed": true,
+  "versions": {
+    "python": "3.12.3",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  },
+  "source_sha256": {
+    "solver.py": "220dc8a44e6e0862c067d99f498d0f99e8926a29261a9544db14d2a39f0f1ce6",
+    "reproduce.py": "188ae3f7abdc2689214aa38cfc67e5a82a5e627991d6ed57221bbe04d230122e",
+    "render.py": "0f5a910e1719b0a53c368c06031769e10529c20c04b5db3d6efce2bfe332d9b5"
+  }
+}
